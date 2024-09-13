@@ -1,7 +1,7 @@
 ### Name: VIKAASH K S
 ### Register No: 212223240179
 ### Experiment 2
-### Date: 07.09.2024
+### Date: 
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
